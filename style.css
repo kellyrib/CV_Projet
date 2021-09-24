@@ -1,23 +1,4 @@
-@font-face {
-    font-family: 'Walkway-Bold';
-    src: url(./fonts/policenom/Walkway-Bold.ttf.eot);
-    src: url(./fonts/policenom/Walkway-Bold.ttf.eot?#iefix) format('embedded-opentype'),
-         url(./fonts/policenom/Walkway-Bold.ttf.otf) format('otf'),
-         url(./fonts/policenom/Walkway-Bold.ttf.svg#Walkway-Bold.ttf) format('svg'),
-         url(./fonts/policenom/Walkway-Bold.ttf.woff) format('woff'),
-         url(./fonts/policenom/Walkway-Bold.ttf.ttf) format('truetype'),
-         url(./fonts/policenom/Walkway-Bold.ttf.woff2) format('woff2');
-  }
-  @font-face {
-    font-family: 'OPTIAlpine-Primer';
-    src: url(./fonts/policeprenom/OPTIAlpine-Primer.ttf.eot);
-    src: url(./fonts/policeprenom/OPTIAlpine-Primer.ttf.eot?#iefix) format('embedded-opentype'),
-         url(./fonts/policeprenom/OPTIAlpine-Primer.ttf.otf) format('otf'),
-         url(./fonts/policeprenom/OPTIAlpine-Primer.ttf.svg) format('svg'),
-         url(./fonts/policeprenom/OPTIAlpine-Primer.ttf.woff) format('woff'),
-         url(./fonts/policeprenom/OPTIAlpine-Primer.ttf.ttf) format('truetype'),
-         url(./fonts/policeprenom/OPTIAlpine-Primer.ttf.woff2) format('woff2');
-  }
+
   
   
 header
