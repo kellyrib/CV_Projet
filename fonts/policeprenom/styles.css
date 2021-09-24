@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'OPTIAlpine-Primer.ttf';
+  src: url(./OPTIAlpine-Primer.ttf.eot);
+  src: url(./OPTIAlpine-Primer.ttf.eot?#iefix) format('embedded-opentype'),
+       url(./OPTIAlpine-Primer.ttf.otf) format('otf'),
+       url(./OPTIAlpine-Primer.ttf.svg#OPTIAlpine-Primer.ttf) format('svg'),
+       url(./OPTIAlpine-Primer.ttf.woff) format('woff'),
+       url(./OPTIAlpine-Primer.ttf.ttf) format('truetype'),
+       url(./OPTIAlpine-Primer.ttf.woff2) format('woff2');
+}

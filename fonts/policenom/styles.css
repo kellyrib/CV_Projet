@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Walkway-Bold.ttf';
+  src: url(./Walkway-Bold.ttf.eot);
+  src: url(./Walkway-Bold.ttf.eot?#iefix) format('embedded-opentype'),
+       url(./Walkway-Bold.ttf.otf) format('otf'),
+       url(./Walkway-Bold.ttf.svg#Walkway-Bold.ttf) format('svg'),
+       url(./Walkway-Bold.ttf.woff) format('woff'),
+       url(./Walkway-Bold.ttf.ttf) format('truetype'),
+       url(./Walkway-Bold.ttf.woff2) format('woff2');
+}
